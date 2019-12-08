@@ -4,6 +4,7 @@ layout: default
 
 # WebConf 2020 Developer Track
 
+<div class="wrapper">
 <ul>
   <li>
     <a href="index.html">Home</a>
@@ -18,6 +19,7 @@ layout: default
     <a href="about.html">About</a>
   </li>
 </ul>
+</div>
 
 <!--	
  * [Home](index.html)
