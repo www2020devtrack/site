@@ -4,8 +4,7 @@ layout: default
 
 # WebConf 2020 Developer Track
 
-<div class="wrapper">
-<header>
+<nav>
 <ul>
   <li>
     <a href="index.html">Home</a>
@@ -20,13 +19,5 @@ layout: default
     <a href="about.html">About</a>
   </li>
 </ul>
-</div>
-</header>
-
-<!--	
- * [Home](index.html)
- * [Call](call.html)
- * [Schedule](schedule.html)
- * [About](about.html)
--->
+</nav>
 
