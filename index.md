@@ -5,7 +5,7 @@ layout: default
 # WebConf 2020 Developer Track
 
 <p>
-<img src="images/skyline.jpg" />
+  <img src="images/skyline.jpg" />
 </p>
 
 **Wednesday, April 22nd, 2020 in conjunction with WebConf 2020 (April 20-24)**
