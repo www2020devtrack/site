@@ -24,7 +24,9 @@ While we are open to any contributions that are relevant for the Web space, here
 - Web-scale information processing
 - Autonomy on the Web: Agents, bots, etc.
 
-Submissions should take the form of a title and short paragraph detailing what will be shared with the community (including the specific platform and/or technologies you will be showcasing).
+Submissions should take the form of a title and short description detailing what will be shared with the community (including the specific platform and/or technologies you will be showcasing). Be as specific and detailed as you need to be so that the program committee can understand your submission and presentation plan.
+
+There is no need to submit full papers, but we will make any materials available on this site that authors wish to make public.
 
 - Submission deadline: January 6, 2020
 - Acceptance notification: February 10, 2020
