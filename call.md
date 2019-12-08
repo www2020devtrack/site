@@ -24,7 +24,6 @@ Submissions should take the form of a title and short paragraph detailing what w
 
 - Submission deadline: January 6, 2020
 - Acceptance notification: February 10, 2020
-- Submission site: 	
-https://easychair.org/conferences/?conf=www2020devtrack
+- Submission site: [here](https://easychair.org/conferences/?conf=www2020devtrack)
 
 The Web Conference 2020 Developers Track is part of [The Web Conference 2020](https://www2020.thewebconf.org/) in Taipei, Taiwan. Participation in the developers track will require registration for the conference.
