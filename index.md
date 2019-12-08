@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# WebConf 2020 Developer Track
+# WebConf 2020 Developers Track
 
 <p>
   <img src="images/skyline.jpg" />
@@ -20,7 +20,7 @@ layout: default
 
 ### Call for Submissions
 
-The Web Conference 2020 developer track presents an opportunity to share the latest developments across the technical community, both in terms of technologies, and in terms of tooling. We will be running a half day of informal sessions with presentations and demonstrations showcasing community expertise and progress:
+The Web Conference 2020 developers track presents an opportunity to share the latest developments across the technical community, both in terms of technologies, and in terms of tooling. We will be running a half day of informal sessions with presentations and demonstrations showcasing community expertise and progress:
 
 - What cool development tools, frameworks, languages and technologies could you not get on without?
 - What do you use or see as new developments that will make your developer life easier or more productive?
@@ -31,7 +31,7 @@ The Web Conference 2020 developer track presents an opportunity to share the lat
 
 ### Schedule
 
-The Developer Track will be held on Wednesday, April 22nd from 2PM to 5:30PM.  Exact schedule to be determined.
+The Developers Track will be held on Wednesday, April 22nd from 2pm to 5:30pm.  Exact schedule to be determined.
 
 [read more...](schedule)
 

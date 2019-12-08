@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# About the 2020 DeveloperTrack
+# About the Web Conference 2020 Developers Track
 
 <p>
   <img src="images/skyline.jpg" />

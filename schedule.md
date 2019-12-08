@@ -8,9 +8,9 @@ layout: default
   <img src="images/skyline.jpg" />
 </p>
 
-The Developer Track will be held on Wednesday, April 22nd from 2pm to 5:30pm.  Exact schedule to be determined.
+The Developers Track will be held on Wednesday, April 22nd from 2pm to 5:30pm.  Exact schedule to be determined.
 
-#### Developer Track, Wednesday, April 22nd, 2020
+#### Developers Track, Wednesday, April 22nd, 2020
 
  * 14:00-14:15: Opening Remarks
  * 14:15-15:30: _Presentations_
