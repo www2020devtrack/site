@@ -17,10 +17,10 @@ layout: default
 
 ### Program Committee
 
-* Glenn	Block, DocuSign	ordinary PC member	
+* Glenn	Block, DocuSign		
 * Richard	Cyganiak,	TopQuadrant, Inc.	
-* Michael	Hibay, Vanguard	ordinary PC member	
-* Stephen	Mizell,	SmartBear	ordinary PC member	
+* Michael	Hibay, Vanguard		
+* Stephen	Mizell,	SmartBear		
 * Cesare	Pautasso,	University of Lugano, Switzerland	
 * Thomas	Steiner,	Google	
 * Vlad	Stirbu,	CompliancePal	
