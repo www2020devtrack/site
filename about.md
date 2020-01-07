@@ -17,4 +17,14 @@ layout: default
 
 ### Program Committee
 
-**TBD**
+* Glenn	Block, DocuSign	ordinary PC member	
+* Richard	Cyganiak,	TopQuadrant, Inc.	
+* Michael	Hibay, Vanguard	ordinary PC member	
+* Stephen	Mizell,	SmartBear	ordinary PC member	
+* Cesare	Pautasso,	University of Lugano, Switzerland	
+* Thomas	Steiner,	Google	
+* Vlad	Stirbu,	CompliancePal	
+* Shelby	Switzer,	US Digital Service	
+* Emmelyn	Wang,	Axway	
+* Erik	Wittern,	IBM	
+* Olaf	Zimmermann, HSR FHO
