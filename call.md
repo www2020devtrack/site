@@ -28,7 +28,7 @@ Submissions should take the form of a title and short description detailing what
 
 There is no need to submit full papers, but we will make any materials available on this site that authors wish to make public.
 
-- Submission deadline: January 20, 2020
+- Submission deadline: January 27, 2020
 - Acceptance notification: February 10, 2020
 - Submission site: [Easychair](https://easychair.org/conferences/?conf=www2020devtrack)
 
