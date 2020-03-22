@@ -15,7 +15,7 @@ The Developers Track will be held on Wednesday, April 22nd from 1:30pm to 6pm.  
  * 13:30-13:45: **Opening Remarks** (Wilde/Amundsen)
  * 13:45-14:15 - **Sophia: a Linked Data and Semantic Web toolkit for Rust** (Pierre-Antoine Champin)
  * 14:15-14:45 - **Enabling Autonomous API Agents**, Michael Hibay
- * 14:45-15:15 - **Emerging W3C APIs such as WebAudio, WebMidi ...** (Michel Buffa, Jerome Lebrun, Stephane Letz, Yann Orlarey, Romain Michon, Dominique Fober and Shihong Ren)
+ * 14:45-15:15 - **Emerging W3C APIs opened up commercial opportunities for computer music applications** (Michel Buffa, Jerome Lebrun, Stephane Letz, Yann Orlarey, Romain Michon, Dominique Fober and Shihong Ren)
  * 15:15-15:30 - **Open Discussion**
  * 15:30-16:00: Break
  * 16:00-16:30 - **A Link Generator for Increasing the Utility of OpenAPI-to-GraphQL Translations** (Dominik Adam Kus, István Koren and Ralf Klamma)
