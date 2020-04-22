@@ -19,7 +19,7 @@ The Developers Track will be held on Wednesday, April 22nd from 1:30pm to 6pm.
  * 14:45-15:00 - **Open Discussion**
  * 15:00-16:00 - **Break**
  * 16:00-16:30 - **A Link Generator for Increasing the Utility of OpenAPI-to-GraphQL Translations** (Dominik Adam Kus, István Koren, and Ralf Klamma) [[Slides (online)](https://www.slideshare.net/IstvanKoren/a-link-generator-for-increasing-the-utility-of-openapi-to-graphql-translations), [Paper (PDF)](OpenAPI-to-GraphQL-Translations.pdf), and [demo materials (zip)](OpenAPI-to-GraphQL-Translations-demo.zip)]
- * 16:30-17:00 - **Serverless Deployment Chassis : Rapid production ready MVPs** (Bruno Watt)
+ * 16:30-17:00 - **Serverless Deployment Chassis : Rapid production ready MVPs** (Bruno Watt) [[Slides (online)](https://webconf2020.groklobster.io/) and [deployment chassis (GitHub)](https://github.com/delprofundo/serverless_chassis)]
  * 17:00-17:30 - **Open Discussion**
  * 17:30-17:45 - **Closing Remarks** (Wilde/Amundsen)
  
