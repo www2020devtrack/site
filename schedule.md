@@ -2,13 +2,13 @@
 layout: default
 ---
 
-# Proposed Schedule
+# Developers Track Schedule
 
 <p>
   <img src="images/skyline.jpg" />
 </p>
 
-The Developers Track will be held on Wednesday, April 22nd from 1:30pm to 6pm.  Exact schedule to be determined.
+The Developers Track will be held on Wednesday, April 22nd from 1:30pm to 6pm.
 
 #### Developers Track, Wednesday, April 22nd, 2020
 
