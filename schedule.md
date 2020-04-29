@@ -17,7 +17,7 @@ The Developers Track will be held on Wednesday, April 22nd from 1:30pm to 6pm.
  * 13:45-14:15 - **Sophia: A Linked Data and Semantic Web toolkit for Rust** (Pierre-Antoine Champin) [[Slides (online)](http://champin.net/2020/www-dev/) and [Paper (PDF)](sophia.pdf)]
 <!-- * 14:15-14:45 - **Enabling Autonomous API Agents** (Michael Hibay) -->
  
- * 14:15-14:45 - **Emerging W3C APIs opened up commercial opportunities for computer music applications** (Michel Buffa, Jerome Lebrun, Stephane Letz, Yann Orlarey, Romain Michon, Dominique Fober, and Shihong Ren) [[Slides (Google Docs)](https://docs.google.com/presentation/d/18yKY9JKpyHViAQ0Bcqfn1Fy028VK7P-bRTh28oB6wvg/edit?usp=sharing)]
+ * 14:15-14:45 - **Emerging W3C APIs opened up commercial opportunities for computer music applications** (Michel Buffa, Jerome Lebrun, Stephane Letz, Yann Orlarey, Romain Michon, Dominique Fober, and Shihong Ren) [[Slides (Google Docs)](https://docs.google.com/presentation/d/18yKY9JKpyHViAQ0Bcqfn1Fy028VK7P-bRTh28oB6wvg/edit?usp=sharing) and [Paper (PDF)](buffa-www2020.pdf)]
  
  * 14:45-15:00 - **Open Discussion**
  * 15:00-16:00 - **Break**
